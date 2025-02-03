@@ -1,0 +1,4 @@
+./main/Data_folder
+./main/__pycache__
+./Results
+./main/traincopy.py
